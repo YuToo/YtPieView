@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="YtPieView">
+
+        <!-- 圆环半径 -->
+        <attr name="radius" format="dimension" />
+        <!-- 圆环宽度 -->
+        <attr name="ringWidth" format="dimension"/>
+        <!-- 线段长度 -->
+        <attr name="lineLength" format="dimension" />
+        <!-- 文字大小 -->
+        <attr name="textSize" format="dimension" />
+        <!-- 正方形边长 -->
+        <attr name="squareSide" format="dimension" />
+    </declare-styleable>
+
+</resources>
